@@ -1,0 +1,22 @@
+#preview {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 100%;
+    min-height: 300px;
+    background-color: #f9f9f9;
+    overflow: auto;
+  }
+
+  /* Стилі для панелі вводу */
+  label[for="editor"] {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  textarea {
+    border: 1px solid #ccc;
+    padding: 10px;
+    min-height: 300px;
+    font-family: monospace;
+  }

@@ -1,0 +1,9 @@
+label[for="preview"] {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  #editor {
+  width: 100%
+  }
